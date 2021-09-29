@@ -11,12 +11,12 @@ Many customers of the company are wholesalers.
 ## APPROACH
 
 ### Data Pre-Processing:
-    ● Before diving into insights from the data, we removed duplicate
+  ● Before diving into insights from the data, we removed duplicate
     entries from the data. The data contained 5268 duplicate entries (about ~1%).
 
-    ● We had also removed the ones where CustomerID values were NaNs.
+  ● We had also removed the ones where CustomerID values were NaNs.
 
-    ● As per the data, if the invoice number code starts with the letter ‘c’, it
+  ● As per the data, if the invoice number code starts with the letter ‘c’, it
     shows a canceled order.All the canceled orders contain negative
     quantities (since it was a cancellation) and hence were removed from
     the data.
