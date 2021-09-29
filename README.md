@@ -74,15 +74,19 @@ the monetary value of their transaction was (Monetary).
   were those customers who had good Recency, Frequency,
   Monetary, as from the hierarchical cluster plot the blue patches
   were representing those target customers.
+  
   ● High monetary value but less frequent: These customers were
   coming very less in the store but whenever they came they were
   spending a huge amount of money.
+  
   ● Low monetary value but more frequent(Careful): These
   customers were coming so frequently to the store but spending
   quite less.
+  
   ● Low monetary and less frequent: These were the customers
   who were not the good for the store because they are spending
   less and are less frequent.
+  
   ● So after doing customer segmentation we can say the company should
   focus on High monetary and more frequent customers(Target customer)
   and apart from that they can also focus on High monetary value but less
