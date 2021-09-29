@@ -53,20 +53,20 @@ the monetary value of their transaction was (Monetary).
 
 ### Clustering:
 
-#### Clustering with K-means (Elbow method):
-First, we had used an elbow method to find out the best
-possible no. of clusters for our dataset and got (no. of
-clusters)K=3.
+  #### Clustering with K-means (Elbow method):
+  First, we had used an elbow method to find out the best
+  possible no. of clusters for our dataset and got (no. of
+  clusters)K=3.
 
-#### Clustering with K-means (Silhouette analysis):
-For our dataset we found out that the best possible average silhouette
-score is 0.39 which was for K=2.
+  #### Clustering with K-means (Silhouette analysis):
+  For our dataset we found out that the best possible average silhouette
+  score is 0.39 which was for K=2.
 
-#### Hierarchical Clustering:
-Hierarchical Clustering clustering uses a Dendrogram technique for
-choosing the best possible cluster.
-So after implementing it we found out that the best possible cluster
-according to our given dataset was K=2.
+  #### Hierarchical Clustering:
+  Hierarchical Clustering clustering uses a Dendrogram technique for
+  choosing the best possible cluster.
+  So after implementing it we found out that the best possible cluster
+  according to our given dataset was K=2.
 
 ### Conclusion:
 
