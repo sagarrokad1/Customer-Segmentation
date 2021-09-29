@@ -51,7 +51,7 @@ the monetary value of their transaction was (Monetary).
 
 ### Models Implementation:-
 
-#### Clustering:
+### Clustering:
 
 #### Clustering with K-means (Elbow method):
 First, we had used an elbow method to find out the best
